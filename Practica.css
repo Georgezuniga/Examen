@@ -1,0 +1,75 @@
+.encabezado{
+    margin: 20px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.logo{
+    display:flex;
+    flex-wrap: nowrap;
+    margin-left: 200px;
+    flex-shrink: 0;
+  flex-basis: 150px;
+}
+#cav{
+    margin-left: 10px;
+}
+.li{
+    padding: 0px;
+    list-style-type: none;
+    color: blue;
+    cursor: pointer;
+}
+.nave{
+    padding-top: 50px;
+    padding-left: 40px;
+}
+.par{
+    display: flex;
+}
+.cont{
+    margin-left: 100px;
+
+    margin-top: 25px;
+
+
+
+}
+.text{
+    margin:auto;
+    padding-right: 0px;
+    width: 400px;
+    height: 300px;
+    
+}
+.im{
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 25%;
+}
+.do{
+    margin-left: 100px;
+    margin-top: 100px;
+
+}
+.pateadera{
+    display:flex;
+}
+.part{
+    
+    margin-left: 15px;
+    height: 10px;
+    width: 300px;
+}
+.two{
+    margin-top: 0px;
+    margin-left: 100px;
+    border-bottom: 0px;
+    text-decoration-line: none;
+display: inline-flex;
+
+
+}
+
+span{
+    text-decoration-line: underline ;
+}
